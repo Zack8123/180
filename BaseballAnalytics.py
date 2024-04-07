@@ -63,3 +63,4 @@ total_correct_predictions = sum(team_correct_predictions.values())
 
 # Print out the total number of correct predictions across all teams
 print(f"\nTotal number of correct predictions: {total_correct_predictions} out of {len(data)}")
+print("Go Brewers!")
