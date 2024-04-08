@@ -35,3 +35,4 @@ X = sm.add_constant(X)
 model_sm = sm.OLS(y, X).fit()
 # Output the regression summary
 print(model_sm.summary())
+print("Go Brewers!")
