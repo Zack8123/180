@@ -36,3 +36,4 @@ model_sm = sm.OLS(y, X).fit()
 # Output the regression summary
 print(model_sm.summary())
 print("Go Brewers!")
+print("BEANS")
